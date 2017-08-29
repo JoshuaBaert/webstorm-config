@@ -1,10 +1,9 @@
 <scheme name="_@user_Monokai" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="2.0" />
   <metaInfo>
     <property name="created">2017-08-29T12:38:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.6.0.0</property>
-    <property name="modified">2017-08-29T15:16:36</property>
+    <property name="modified">2017-08-29T16:01:23</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="26" />
@@ -738,7 +737,11 @@
         <option name="BACKGROUND" value="272822" />
       </value>
     </option>
-    <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="1da5f9" />
+      </value>
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c7c7ff" />
