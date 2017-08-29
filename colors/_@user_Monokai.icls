@@ -3,7 +3,7 @@
     <property name="created">2017-08-29T12:38:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.6.0.0</property>
-    <property name="modified">2017-08-29T16:25:38</property>
+    <property name="modified">2017-08-29T16:55:46</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="26" />
@@ -1070,6 +1070,15 @@
         <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
+    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.INVALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="f8f8f0" />
+        <option name="BACKGROUND" value="f92672" />
+      </value>
+    </option>
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="REST.BOLD">
       <value>
         <option name="FONT_TYPE" value="1" />
