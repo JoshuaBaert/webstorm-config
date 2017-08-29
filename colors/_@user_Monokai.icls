@@ -1,13 +1,15 @@
 <scheme name="_@user_Monokai" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2017-08-22T08:22:56</property>
+    <property name="created">2017-08-29T12:38:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.6.0.0</property>
-    <property name="modified">2017-08-28T13:21:46</property>
+    <property name="modified">2017-08-29T12:50:53</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="30" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="EDITOR_FONT_SIZE" value="26" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="24" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
@@ -425,7 +427,12 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="f8ab27" />
+        <option name="BACKGROUND" value="272822" />
+      </value>
+    </option>
     <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
@@ -440,7 +447,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="f92672" />
+        <option name="FOREGROUND" value="1da5f9" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -461,7 +468,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="fd971f" />
+        <option name="FOREGROUND" value="f88826" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -483,7 +490,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="e6db74" />
+        <option name="FOREGROUND" value="47e63f" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
