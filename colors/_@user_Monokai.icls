@@ -3,7 +3,7 @@
     <property name="created">2017-08-29T12:38:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.6.0.0</property>
-    <property name="modified">2017-08-29T16:55:46</property>
+    <property name="modified">2017-08-30T08:58:57</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="26" />
@@ -874,7 +874,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7572b9" />
+        <option name="FOREGROUND" value="7c7ab9" />
       </value>
     </option>
     <option name="OC.BADCHARACTER">
