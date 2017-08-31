@@ -4,7 +4,7 @@
     <property name="created">2017-08-29T12:38:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.6.0.0</property>
-    <property name="modified">2017-08-31T08:12:57</property>
+    <property name="modified">2017-08-31T14:31:46</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="20" />
@@ -430,7 +430,7 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="f8e2b9" />
+        <option name="FOREGROUND" value="f8c874" />
         <option name="BACKGROUND" value="272822" />
       </value>
     </option>
