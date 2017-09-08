@@ -4,7 +4,7 @@
     <property name="created">2017-08-29T12:38:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.6.0.0</property>
-    <property name="modified">2017-09-07T16:26:46</property>
+    <property name="modified">2017-09-08T09:41:12</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="16" />
@@ -770,7 +770,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="273627" />
+        <option name="BACKGROUND" value="2f3029" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
