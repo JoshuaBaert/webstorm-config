@@ -1,14 +1,11 @@
 <scheme name="_@user_Monokai" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="2.0" />
   <metaInfo>
     <property name="created">2017-08-29T12:38:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.6.0.0</property>
-    <property name="modified">2017-09-12T12:56:38</property>
+    <property name="modified">2017-09-12T12:57:14</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="0" />
