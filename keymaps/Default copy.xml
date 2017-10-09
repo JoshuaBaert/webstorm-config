@@ -15,6 +15,7 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="f6" />
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="EditorContextInfo" />
   <action id="EditorLookupDown" />
@@ -33,7 +34,7 @@
   </action>
   <action id="Move" />
   <action id="Run">
-    <keyboard-shortcut first-keystroke="f5" />
+    <keyboard-shortcut first-keystroke="shift f5" />
   </action>
   <action id="RunToCursor">
     <keyboard-shortcut first-keystroke="alt f9" />
