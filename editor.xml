@@ -4,4 +4,9 @@
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
   </component>
   <component name="LiveEditOptions" autoDelay="500" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\bNotImplementedException\b" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
+  </component>
 </application>
