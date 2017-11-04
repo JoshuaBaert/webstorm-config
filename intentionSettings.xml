@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="HTML/Update background-image size" />
+    <ignoreAction name="JavaScript/Declaration/Split Declaration And Initialization" />
+  </component>
+</application>
