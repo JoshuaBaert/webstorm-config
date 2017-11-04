@@ -9,7 +9,7 @@
   <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,span,strike,strong,sub,sup,textarea,tt,u,var,a,&lt;a&gt;" />
   <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="title,h1,h2,h3,h4,h5,h6,p,a" />
   <CssCodeStyleSettings>
-    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="3" />
+    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="2" />
   </CssCodeStyleSettings>
   <DBN-PSQL>
     <case-options enabled="false">
