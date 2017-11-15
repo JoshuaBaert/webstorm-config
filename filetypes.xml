@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern=".gitignore" type="Native" />
       <mapping pattern="BatchImportAlter.sql" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".gitignore" type="PLAIN_TEXT" />
+      <mapping ext="businesspaymentsummary" type="SQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
