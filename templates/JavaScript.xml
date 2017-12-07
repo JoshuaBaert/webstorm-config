@@ -20,7 +20,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="cw" value="console.log($END$);" description="Log something to the console" toReformat="false" toShortenFQNames="true">
+  <template name="cw" value="console.log($END$)" description="Log something to the console" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />

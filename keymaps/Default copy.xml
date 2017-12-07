@@ -1,6 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f1" />
+    <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="CheckinProject" />
   <action id="ChooseRunConfiguration" />
