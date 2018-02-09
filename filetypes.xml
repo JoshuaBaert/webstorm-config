@@ -5,6 +5,7 @@
       <mapping pattern="BatchImportAlter.sql" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitignore" type="PLAIN_TEXT" />
+      <mapping pattern="*.InvoiceHeader.sql" type="SQL" />
       <mapping ext="businesspaymentsummary" type="SQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
