@@ -1,8 +1,10 @@
 <templateSet group="Angular">
   <template name="a-component" value="import { Component, OnInit } from '@angular/core';&#10;&#10;@Component({&#10; styleUrls: [``],&#10; templateUrl: ``&#10;})&#10;&#10;export class $Name$Component implements OnInit {&#10; constructor() { }&#10;&#10; ngOnInit() { }$END$&#10;}" description="Angular component" toReformat="true" toShortenFQNames="true">
     <variable name="Name" expression="" defaultValue="&quot;Name&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="a-service" value="import { Injectable } from '@angular/core';&#10;&#10;@Injectable()&#10;export class $Name$Service {&#10;$END$&#10; constructor() {}&#10; &#10;}" description="Angular service" toReformat="true" toShortenFQNames="true">
     <variable name="Name" expression="" defaultValue="&quot;Name&quot;" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
