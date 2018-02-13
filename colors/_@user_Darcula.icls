@@ -3,14 +3,20 @@
     <property name="created">2018-02-13T11:36:24</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-02-13T12:21:34</property>
+    <property name="modified">2018-02-13T13:13:02</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
     <option name="INLINE_PARAMETER_HINT_SELECTION_BORDER" value="" />
-    <option name="SELECTION_BACKGROUND" value="d1a31" />
+    <option name="LINE_NUMBERS_COLOR" value="7f8285" />
+    <option name="SELECTION_BACKGROUND" value="4b4b4b" />
   </colors>
   <attributes>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="bc5cff" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="89e6" />
@@ -63,12 +69,17 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="a556e3" />
+        <option name="FOREGROUND" value="bc5cff" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="a556e3" />
+        <option name="FOREGROUND" value="bc5cff" />
+      </value>
+    </option>
+    <option name="DEFAULT_GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="b9e676" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -90,7 +101,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="6c9df7" />
+        <option name="FOREGROUND" value="e69001" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -132,7 +143,7 @@
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="60fd60" />
+        <option name="FOREGROUND" value="37d5ff" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -140,11 +151,7 @@
         <option name="FOREGROUND" value="e38d32" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_NAME">
-      <value>
-        <option name="FOREGROUND" value="a556e3" />
-      </value>
-    </option>
+    <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
@@ -161,6 +168,13 @@
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
         <option name="FOREGROUND" value="acacac" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="fff257" />
+        <option name="BACKGROUND" value="505050" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
