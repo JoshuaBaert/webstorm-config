@@ -3,7 +3,7 @@
     <property name="created">2018-02-13T11:36:24</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-02-13T17:07:03</property>
+    <property name="modified">2018-02-13T17:11:16</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -191,6 +191,13 @@
         <option name="FOREGROUND" value="7cd6" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="ab1112" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="be9117" />
+        <option name="ERROR_STRIPE_COLOR" value="be9117" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
   </attributes>
