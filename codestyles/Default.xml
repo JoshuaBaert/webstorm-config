@@ -1,4 +1,4 @@
-<code_scheme name="Default">
+<code_scheme name="Default"version="173">
   <option name="RIGHT_MARGIN" value="145" />
   <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,thead,tfoot" />
   <DBN-PSQL>
@@ -25,13 +25,9 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
-  <JSCodeStyleSettings>
-    <option name="FORCE_SEMICOLON_STYLE" value="true" />
-    <option name="USE_DOUBLE_QUOTES" value="false" />
-    <option name="FORCE_QUOTE_STYlE" value="true" />
-    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
-    <option name="SPACES_WITHIN_IMPORTS" value="true" />
-  </JSCodeStyleSettings>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,thead,tfoot" />
+  </HTMLCodeStyleSettings>
   <DBN-PSQL>
     <case-options enabled="false">
       <option name="KEYWORD_CASE" value="lower" />
@@ -60,10 +56,9 @@
     <option name="NEW_LINE_BEFORE_COMMA" value="true" />
   </SqlCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
-    <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
-    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
+    <option name="ALIGN_IMPORTS" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="HTML">
@@ -92,12 +87,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
-    <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
-    <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
-    <indentOptions>
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
-    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
