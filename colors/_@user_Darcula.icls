@@ -3,15 +3,21 @@
     <property name="created">2018-02-13T11:36:24</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-02-13T17:11:16</property>
+    <property name="modified">2018-02-14T10:24:18</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
+    <option name="CARET_ROW_COLOR" value="0" />
     <option name="INLINE_PARAMETER_HINT_SELECTION_BORDER" value="" />
     <option name="LINE_NUMBERS_COLOR" value="7f8285" />
     <option name="SELECTION_BACKGROUND" value="4b4b4b" />
   </colors>
   <attributes>
+    <option name="CSS.TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ff2228" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="9b9b9b" />
@@ -179,6 +185,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="e8e3eb" />

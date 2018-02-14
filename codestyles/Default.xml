@@ -20,6 +20,11 @@
     <option name="ALIGN_IMPORTS" value="true" />
     <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
   </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="CSS">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
@@ -31,6 +36,12 @@
     <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
+  </codeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
