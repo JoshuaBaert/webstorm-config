@@ -3,7 +3,7 @@
     <property name="created">2018-02-13T11:36:24</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-02-14T10:24:18</property>
+    <property name="modified">2018-02-15T13:01:54</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -183,6 +183,18 @@
       <value>
         <option name="FOREGROUND" value="959793" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.REDUNDANT_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="b1a5e3" />
       </value>
     </option>
     <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
