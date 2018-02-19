@@ -3,7 +3,7 @@
     <property name="created">2018-02-13T11:36:24</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-02-19T08:36:55</property>
+    <property name="modified">2018-02-19T10:26:44</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -119,7 +119,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="f4d03f" />
+        <option name="FOREGROUND" value="ff85e7" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
