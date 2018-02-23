@@ -3,7 +3,7 @@
     <property name="created">2018-02-13T11:36:24</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-02-22T16:18:56</property>
+    <property name="modified">2018-02-23T09:15:17</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -86,7 +86,9 @@
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
-      <value />
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
@@ -136,7 +138,9 @@
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
-      <value />
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
