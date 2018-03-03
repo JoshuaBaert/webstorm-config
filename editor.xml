@@ -1,13 +1,10 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="13" />
     <option name="FONT_FAMILY" value="Source Code Pro" />
   </component>
   <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
 </application>
