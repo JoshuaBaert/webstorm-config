@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <option name="RIGHT_MARGIN" value="145" />
   <JSCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
@@ -49,5 +50,10 @@
     <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
